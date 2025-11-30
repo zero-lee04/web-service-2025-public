@@ -19,4 +19,4 @@
 # 3. 프로젝트 실행 방법
 # [1]. 필수 패키지 설치: pip install fastapi[all] uvicorn
 # [2]. 서버 실행 : uvicorn main:app --reload
-# [3]. API 서버 테스트 : http://127.0.0.1:8000/docs
+# [3]. API 서버 테스트 : http://127.0.0.1:8000/docs 에서 DataBase 입력 후 http://127.0.0.1:8000/playlists, 등의 링크를 통해 확인
